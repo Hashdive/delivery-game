@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gun
+  - Hammer
+  - Bat
+  - Dagger
+  - Birdman
+  - Clock
+  - WeaponSpawn
+  - Crate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Birdman
+  - Enemy
+  - weapons
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 143494415
+    locked: 0
+  - name: middle ground
+    uniqueID: 804284759
+    locked: 0
+  - name: ground
+    uniqueID: 2043411765
+    locked: 0
+  - name: foreground
+    uniqueID: 782345293
+    locked: 0
+  - name: game
+    uniqueID: 3725704963
+    locked: 0
+  - name: weapons
+    uniqueID: 3642508265
+    locked: 0
